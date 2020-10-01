@@ -3,7 +3,7 @@
  * start page for webaccess
  * redirect the user to the supported page type by the users webbrowser (js available or not)
  *
- * PHP version 5
+ * PHP version 5 New
  *
  * @category  PHP
  * @package   PSI
