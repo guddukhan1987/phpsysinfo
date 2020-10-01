@@ -1,5 +1,5 @@
 Changelog of phpSysInfo
-=======================
+========================
 
 http://phpsysinfo.sourceforge.net/
 
